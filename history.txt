@@ -66,3 +66,84 @@
    66  git push origin master
    67  cat history.txt
    68  history > history.txt
+   69  ls -la
+   70  cat history.txt
+   71  git commit -m "20170913_14_15"
+   72  git push origin master
+   73  git add .
+   74  git commit -m "20170913_14_15"
+   75  git push origin master
+   76  history
+   77  pwd
+   78  mkdir apakshdarbi
+   79  ls -l
+   80  man rm
+   81  rm -rf apakshdarbi/
+   82  ls -la
+   83  mkdir apakshdarbi
+   84  rm dev1
+   85  cd
+   86  pwd
+   87  cd darbi/
+   88  echo Tercmint is a community of Linux Nerds
+   89  x=10
+   90  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   91  echo The value of variable x = $x
+   92  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+
+echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+
+echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+   93  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   94  user@sc:~/darbi$ echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+
+user@sc:~/darbi$ echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+   95  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   96  user@sc:~/darbi$ echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   97  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   98  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   99  echo -e "\n\vTecmint \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  100  echo -e "Tecmint \ris a community of Linux Nerds"
+  101  echo -e "Tecmint is a community \cof Linux Nerds"
+  102  echo -n "Tecmint is a community of Linux Nerds"
+  103  echo -e "Tecmint is a community of \aLinux Nerds"
+  104  echo *
+  105  echo *.jpeg
+  106  echo "Test Page" > testpage
+  107  echo "Tests" > a.txt
+  108  echo "Tests" > a. txt
+  109  echo "Teksts" > a.txt
+  110  echo "Teksts" > a. txt
+  111  echo "Test Page" > testpage
+  112  cat a.txt
+  113  cat b.txt
+  114  cat c.txt
+  115  man ls > ls_komandas_apraksti
+  116  cat a.txt > d.txt
+  117  ls -l
+  118  cat b.txt > d.txt
+  119  cat a.txt > d.txt
+  120  cat a.txt >> d.txt
+  121  ls -l
+  122  cp d.txt dd.txt
+  123  ls -l
+  124  cp a.txt ../a1.txt
+  125  ls -l
+  126  pwd
+  127  cd ..
+  128  cp a1.txt darbi/a2.txt
+  129  ls -l
+  130  /
+  131  cd .
+  132  cd ..
+  133  mv ~/darbi/
+  134  mv ~/darbi/ls_komandas_apraksti ~/
+  135  cd
+  136  ls -l
+  137  cd darbi
+  138  ls -l
+  139  pwd
+  140  ls -la
+  141  historu > history.txt
+  142  history > history.txt
