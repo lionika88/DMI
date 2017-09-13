@@ -1,0 +1,68 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  uname -r
+    4  lsb_ release
+    5  lsb_release
+    6  cat /etc/8-release
+    7  echo $0
+    8  man echo
+    9  pwd
+   10  whoami
+   11  who
+   12  ls
+   13  ls -l
+   14  ls -a
+   15  ls -la
+   16  cd Documents/
+   17  cd.
+   18  cd .
+   19  cd ..
+   20  pwd
+   21  cd ..
+   22  cd .
+   23  cd ..
+   24  ls
+   25  man echo
+   26  echo $0
+   27  cd .
+   28  cd ..
+   29  cd ~
+   30  ls
+   31  man ls
+   32  ls -l
+   33  ls -a
+   34  ls -la
+   35  ls
+   36  cd Documents/
+   37  pwd
+   38  ls
+   39  ls -la
+   40  cd ..
+   41  pwd
+   42  cd ..
+   43  pwd
+   44  cd ..
+   45  cd /home/user
+   46  pwd
+   47  mkdir darbi
+   48  mkdir darbi1
+   49  pwd
+   50  ls -l
+   51  cd darbi
+   52  history
+   53  >history.txt
+   54  ls -la
+   55  cat history.txt
+   56  darbi ls -la
+   57  ls -la
+   58  git init
+   59  git add.
+   60  git add .
+   61  git config --global user.name lionika88@mail.ru
+   62  ls -la
+   63  git commit -m "20170913_14_00"
+   64  git config --global user.email lionika88@mail.ru
+   65  git remote add origin https://github.com/lionika88/DMI.git
+   66  git push origin master
+   67  cat history.txt
+   68  history > history.txt
