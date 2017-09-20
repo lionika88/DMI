@@ -31,3 +31,28 @@
    31  ls -l
    32  nano git-upload
    33  history > history_20170920.txt
+   34  ls -l
+   35  git-upload
+   36  chmod 744 git-upload
+pieveino tiesibas
+   37  ls -l
+kur es esmu
+   38  git-upload
+   39  echo $PATH
+parada celu
+   40  git-upload
+   41  pwd
+   42  PATH=$PATH:~/DMI
+Pievieno mano mapi celai
+   43  git-upload
+   44  echo $PATH
+   45  git-upload
+   46  NANO git-upload
+   47  nano git-upload
+ielade to ko esmu uzrakstiis
+   48  git-upload
+   49  nano history > history_20170920.txt
+
+   50  history > history_20170920.txt
+       
+Pracelsana to ko es esmu izdariijis mapei history
