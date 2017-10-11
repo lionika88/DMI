@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -l
+    4  git clone https://github.com/lionika88/DMI
+    5  nano
+    6  mv shell_operators.sh DMI/
+    7  cd DMI/
+    8  git clone https://github.com/lionika88/DMI
+    9  ls -la
+   10  chmod 744 shell_operators.sh 
+   11  ./shell_operators.sh 
+   12  nano
+   13  ls -l
+   14  nano shell_operators.sh 
+   15  ./shell_operators.sh 
+   16  nano shell_operators.sh 
+   17  ./shell_operators.sh
+   18  nano shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano shell_operators.sh
+   21  ./shell_operators.sh
+   22  nano shell_operators.sh
+   23  ./shell_operators.sh
+   24  nano shell_operators.sh
+   25  ./shell_operators.sh
+   26  nano shell_operators.sh
+   27  ./shell_operators.sh
+   28  nano shell_operators.sh
+   29  ./shell_operators.sh
+   30  ls -l
+   31  nano git-upload
+   32  history > history_20171011
