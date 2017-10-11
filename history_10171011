@@ -64,16 +64,3 @@
    64  ./dialogs.sh
    65  nano git-upload
    66  history > history_10171011
-   67  history > history_20171011
-   68  ./git-upload 20171011_15_30
-   69  ./git-upload 20171011
-   70  history > history_20171011
-   71  ./git-upload 20171011
-   72  nano git-upload
-   73  history > history_20171011
-   74  ./git-upload 20171011
-   75  nano git-upload
-   76  history > history_20171011
-   77  ./git-upload 20171011_15_30
-   78  nano git-upload
-   79  history > history_20171011
