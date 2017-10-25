@@ -1,0 +1,148 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/lionika88/DMI
+    3  ls -l
+    4  cd DMI
+    5  nano if_C01.sh
+    6  chmod 744 if_C01.sh
+    7  if_C01.sh
+    8  ./if_C01.sh
+    9  nano if_C01.sh
+   10  ./if_C01.sh 10
+   11  ./if_C01.sh -10
+   12  ./if_C01.sh 0
+   13  ./if_C01.sh 0 -30
+   14  ./if_C01.sh 0 100
+   15  ./if_C01.sh 10
+   16  ./if_C01.sh 55667
+   17  888
+   18  ./if_C01.sh 888
+   19  nano if_C01.sh
+   20  ./if_C01.sh 10
+   21  nano if_C01.sh
+   22  ./if_C01.sh 10
+   23  nano if_C01.sh
+   24  ./if_C01.sh -10
+   25  nano if_C01.sh
+   26  ./if_C01.sh -10
+   27  nano if_C01.sh
+   28  ./if_C01.sh -10
+   29  nano if_C01.sh
+   30  ./if_C01.sh -10
+   31  10
+   32  ./if_C01.sh 10
+   33  nano if_C01.sh
+   34  ./if_C01.sh 10
+   35  ./if_C01.sh 0
+   36  ./if_C01.sh -10
+   37  nano if_C01.sh
+   38  ./if_C01.sh 10
+   39  nano if_C01.sh
+   40  ./if_C01.sh 10
+   41  ./if_C01.sh 0
+   42  ./if_C01.sh -28
+   43  nano if_C01.sh
+   44  ./if_C01.sh 5
+   45  nano if_C01.sh
+   46  ./if_C01.sh 5
+   47  nano if_C01.sh
+   48  ./if_C01.sh 5
+   49  nano if_C01.sh
+   50  ./if_C01.sh 
+   51  nano if_C01.sh
+   52  ./if_C01.sh 7
+   53  nano if_C01.sh
+   54  ./if_C01.sh 7 2
+   55  nano if_C01.sh
+   56  ./if_C01.sh 7 2 8
+   57  nano if_C01.sh
+   58  ./if_C01.sh 7 2 8
+   59  nano if_C01.sh
+   60  ./if_C01.sh 7 2 8
+   61  nano if_C01.sh
+   62  ./if_C01.sh 7 2 8
+   63  nano if_C01.sh
+   64  ./if_C01.sh 7 2 8
+   65  ./if_C01.sh 1 2 3
+   66  ./if_C01.sh 2 3 1 
+   67  nano if_C01.sh
+   68  ./if_C01.sh 2 3 1 
+   69  nano if_C01.sh
+   70  ./if_C01.sh 2 3 1 
+   71  nano if_C01.sh
+   72  ./if_C01.sh 2 3 1 
+   73  nano if_C01.sh
+   74  ./if_C01.sh 2 3 1 
+   75  nano if_C01.sh
+   76  ./if_C01.sh 2 3 1 
+   77  nano if_C01.sh
+   78  ./if_C01.sh 2 3
+   79  s
+   80  nano if_C01.sh
+   81  ./if_C01.sh 2 3
+   82  nano if_C01.sh
+   83  ./if_C01.sh 2 3
+   84  nano if_C01.sh
+   85  ./if_C01.sh 2
+   86  nano if_C01.sh
+   87  ./if_C01.sh 2 32
+   88  nano if_C01.sh
+   89  ./if_C01.sh 2 32
+   90  nano if_C01.sh
+   91  ./if_C01.sh 2 32
+   92  nano if_C01.sh
+   93  nano array_loop_DMI.sh
+   94  chmod 744 array_loop_DMI.sh
+   95  ./array_loop_DMI.sh 5 8 8
+   96  nano array_loop_DMI.sh
+   97  ./array_loop_DMI.sh 5 8 
+   98  nano array_loop_DMI.sh
+   99  ./array_loop_DMI.sh 5 8 
+  100  nano array_loop_DMI.sh
+  101  ./array_loop_DMI.sh 5 8 
+  102  ./array_loop_DMI.sh78
+  103  ./array_loop_DMI.sh 45
+  104  ./array_loop_DMI.sh 45 556
+  105  ./array_loop_DMI.sh 7456 896364
+  106  ./array_loop_DMI.sh 7456 35
+  107  nano array_loop_DMI.sh
+  108  ./array_loop_DMI.sh 7456 
+  109  345 56
+  110  ./array_loop_DMI.sh 7456 67
+  111  ./array_loop_DMI.sh  5 5 5 8 1 4 7 5 9 2 4 5 52 52 5
+  112  ./array_loop_DMI.sh  5 5 5 8 1 4 7 5 9 2 4 5 52 
+  113  ./array_loop_DMI.sh  5 5 5 8 1 4 7 5 9 2 4 5 52 dsa
+  114  ./array_loop_DMI.sh  5 5 5 8 1 4 7 5 9 2 4 5 52 
+  115  nano array_loop_DMI.sh
+  116  ./array_loop_DMI.sh  1 2 3 
+  117  nano array_loop_DMI.sh
+  118  ./array_loop_DMI.sh  1 2 3 
+  119  nano array_loop_DMI.sh
+  120  nano if_C01.sh
+  121  ./if_C01.sh
+  122  nano if_C01.sh
+  123  ./if_C01.sh
+  124  ./if_C01.sh 2 3
+  125  ./if_C01.sh 3 2
+  126  nano if_C01.sh
+  127  ./if_C01.sh 3 2 5
+  128  nano if_C01.sh
+  129  ./if_C01.sh 3 2 5
+  130  ./if_C01.sh
+  131  nano if_C01.sh
+  132  ./if_C01.sh
+  133  ./if_C01.sh 3 2 5
+  134  nano if_C01.sh
+  135  ./if_C01.sh 3 2 5
+  136  ./if_C01.sh
+  137  nano if_C01.sh
+  138  ./if_C01.sh
+  139  ./if_C01.sh234
+  140  ./if_C01.sh 678
+  141  nano if_C01.sh
+  142  ./if_C01.sh 678
+  143  nano if_C01.sh
+  144  ./if_C01.sh  6 7 9
+  145  nano if_C01.sh
+  146  history > history_20171025 
+  147  cat git-upload
+  148  history > history_20171025
