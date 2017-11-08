@@ -1,0 +1,29 @@
+#!/usr/bin/python
+
+# http://www.tutorialspoint.com/unix_commands/echo.htm
+# Example 3. - 7.
+
+# example 3
+# echo -e 'Here \bthe \bspaces \bare \bbackspaced.'
+
+print "Once \vupon \va \vmidnight \vdreary, \vwhile \vI \vpondered, \vweak \v\b\b\b\b\\b\and \vweary" 
+'''
+print 'Here the \rcontent before this is removed.'
+'''
+'''
+print 'Here \vthe \vspaces \vhave \vvertical \vtab \vspaces.'
+'''
+'''
+print 'Here \tthe \tspaces \thave \thorizontal \ttab \tspaces.'
+'''
+
+'''
+print 'Here \nthe \nspaces \nare \nnewlined.'
+'''
+'''
+print  "Here \bthe \bspaces \bare \bbackspaced."
+'''
+
+'''
+print "Hellow World!"
+'''

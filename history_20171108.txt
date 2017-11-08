@@ -1,0 +1,5 @@
+    1  VirtualBox --startvm XP
+    2  idel &
+    3  idle &
+    4  cd ..
+    5  history > history_20171108.txt
